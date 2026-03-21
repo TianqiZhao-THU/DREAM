@@ -21,20 +21,7 @@ You can download the full DreamDoc dataset from the following platforms:
 * ☁️ **[Google Drive](https://drive.google.com/drive/folders/1nA5FXrleUefUy9vM40__jypc5TwO6PBx?usp=sharing)**
 
 ### 📂 Data Structure
-After downloading and extracting the dataset, you will find the images organized by category, with all text annotations consolidated in a single JSON file. The directory structure is as follows:
-
-```text
-DreamDoc/
-├── announce_plus/      # Additional announcements
-├── announcement/       # Listed-company announcements
-├── jiaocai/            # University textbooks
-├── newspaper/          # Newspapers
-├── notes/              # Handwritten notes
-├── ppt/                # Slide pages
-├── times/              # Magazines
-├── yiwujiaoyu/         # Primary/secondary school textbooks
-├── addnoise.py         # Utility script for adding noise/augmentations
-└── label.json          # Ground truth transcripts and metadata for all images
+After downloading and extracting the dataset, you will find the images organized by category, with all text annotations consolidated in a single JSON file.
 
 ## 🚀 Release Status
 
